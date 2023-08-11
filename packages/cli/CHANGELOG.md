@@ -1,5 +1,15 @@
 # vercel
 
+## 31.2.4
+
+### Patch Changes
+
+- Sanitize argv in log during `vc build`. ([#10311](https://github.com/vercel/vercel/pull/10311))
+
+- Updated dependencies [[`8cb9385fd`](https://github.com/vercel/vercel/commit/8cb9385fd306d0c2b8771d7bb063e6948ed15729), [`94c93dfb5`](https://github.com/vercel/vercel/commit/94c93dfb5b29aa58317f9d0854273d4880d91a62)]:
+  - @vercel/node@2.15.10
+  - @vercel/static-build@1.3.46
+
 ## 31.2.3
 
 ### Patch Changes
